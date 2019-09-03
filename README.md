@@ -1,7 +1,7 @@
 # Pin-Pong React&Redux Client
 ## How to start
 
-First youu need to run api server https://github.com/spektr08/ping-ping-server
+First youu need to run api server https://github.com/spektr08/ping-pong-server
 
 Installation
 ------------
